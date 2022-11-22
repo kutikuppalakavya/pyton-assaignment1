@@ -1,0 +1,8 @@
+principal amount=10000
+SI=2000
+total months=3*12
+p=int(input("enter principal amount"))
+SI=int(input("enter simple interest"))
+t=int(input("enter number of months"))
+EMI=(principal amount+SI)/total months
+print(EMI)
