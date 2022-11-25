@@ -1,0 +1,27 @@
+#max num
+list1=[1,2,8]
+sum=0
+for i in list1:
+if i%2==0:
+sum=sum+i
+print('even sum number',sum)
+
+
+
+list observation
+list1=[1,2,3]
+list2=[1,9,3]
+for i in list2:
+print('yes')
+else:
+print('no')
+
+
+
+#max num 
+list1=[1,2,3]
+max=list1[0]
+for i in list1:
+if i>max:
+max=i
+print('maximum number',max)
